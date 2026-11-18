@@ -1,0 +1,8 @@
+{
+  "name": "bitx-demo-app",
+  "private": true,
+  "description": "Another team's app using @acme/checkout-flow: try `bitx impact --repo` on it",
+  "dependencies": {
+    "@acme/checkout-flow": "^1.4.2"
+  }
+}
